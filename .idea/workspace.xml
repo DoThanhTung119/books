@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a74b4ebe-f0ea-4dcd-9c73-1fc95967cd89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/auth/login" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/generate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="a74b4ebe-f0ea-4dcd-9c73-1fc95967cd89" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -538,12 +532,12 @@
       <updated>1553073231285</updated>
       <workItem from="1553073233433" duration="5380000" />
       <workItem from="1553155327205" duration="440000" />
-      <workItem from="1553156039175" duration="2243000" />
+      <workItem from="1553156039175" duration="2255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8063000" />
+    <option name="totallyTimeSpent" value="8075000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -556,15 +550,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" order="0" sideWeight="0.50089765" side_tool="true" weight="0.24242425" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49910232" visible="true" weight="0.12684989" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49910232" visible="true" weight="0.12684989" />
       <window_info id="Structure" order="3" sideWeight="0.50089765" side_tool="true" weight="0.24242425" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />

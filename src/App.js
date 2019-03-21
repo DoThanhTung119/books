@@ -5,9 +5,9 @@ import UserList from '../src/user/users'
 
 const dataProvider = jsonServerProvider('http://jsonplaceholder.typicode.com');
 const App = () =>{
-  <Admin dataProvider={dataProvider}>
-  <Resource name="users" list={ListGuesser} />
-</Admin>
+    <Admin dataProvider={dataProvider}>
+      <Resource name="users" list={ListGuesser} />
+    </Admin>
 }
 
 export default App;
