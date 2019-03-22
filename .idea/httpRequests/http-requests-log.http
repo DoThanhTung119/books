@@ -5,6 +5,160 @@ Content-Type: application/json
 
 {"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
 
+<> 2019-03-21T054851.200.json
+
+###
+
+GET http://localhost:3000/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054804.200.json
+
+###
+
+GET http://localhost:3000/list
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054758.200.json
+
+###
+
+GET http://localhost:3000/list
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054750.200.json
+
+###
+
+GET http://localhost:3000/list
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054620-1.404.json
+
+###
+
+GET http://localhost:3000/list
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054620.404.json
+
+###
+
+GET http://localhost:3000/ports
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054615-1.404.json
+
+###
+
+GET http://localhost:3000/ports
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054615.404.json
+
+###
+
+POST http://localhost:3000/ports
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T054611.404.json
+
+###
+
+POST http://localhost:3000/ports
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T053941.404.json
+
+###
+
+GET http://localhost:3000/ports
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T053936.404.json
+
+###
+
+GET http://localhost:3000/ports
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T053934.404.json
+
+###
+
+GET http://localhost:3000
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T053916.200.html
+
+###
+
+GET http://localhost:3000/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
+<> 2019-03-21T053910.404.json
+
+###
+
+GET http://localhost:3000/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
+
 <> 2019-03-21T034848.200.json
 
 ###
@@ -377,156 +531,6 @@ Cache-Control: no-cache
 Content-Type: application/json
 
 {"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-###
-
-GET` http://localhost:3000/list/
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-###
-
-GET` http://localhost:3000/list/
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-###
-
-GET http://localhost:3000/list/
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-21T025847.200.json
-
-###
-
-GET http://localhost:3000/list/
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-21T095620.200.json
-
-###
-
-GET http://localhost:3000/list/
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T051005.200.json
-
-###
-
-GET http://localhost:3000/list/4
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T050948.200.json
-
-###
-
-GET http://localhost:3000/list/4
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T050943.200.json
-
-###
-
-GET http://localhost:3000/list
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T050908.200.json
-
-###
-
-GET http://localhost:3000/list
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T043713.200.json
-
-###
-
-GET http://localhost:3000/list/2
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T043707.200.json
-
-###
-
-PUT http://localhost:3000/list/2
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 3", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T043702.200.json
-
-###
-
-GET http://localhost:3000/list
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 2", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T043547.200.json
-
-###
-
-POST http://localhost:3000/list
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 2", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T043541.201.json
-
-###
-
-GET http://localhost:3000/list
-Accept: */*
-Cache-Control: no-cache
-Content-Type: application/json
-
-{"name": "Harrry poster 2", "price": "12$", "date_price": "11/12/2016"}
-
-<> 2019-03-20T043534.200.json
 
 ###
 
