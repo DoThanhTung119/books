@@ -1,19 +1,17 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "card": "asd"
     }
   ],
-  "comments": [
+  "books": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "book_name": "some comment",
+      "phone_number": "012312544234",
+      "price_date": "20/1/2016",
+      "publication_date": "2014"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

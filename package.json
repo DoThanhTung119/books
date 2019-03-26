@@ -4,8 +4,10 @@
   "private": true,
   "dependencies": {
     "lowdb": "^1.0.0",
+    "node": "^11.12.0",
     "prop-types": "^15.7.2",
     "ra-data-json-server": "^2.8.0",
+    "ra-data-simple-rest": "^2.8.0",
     "react": "^16.8.4",
     "react-admin": "^2.8.2",
     "react-dom": "^16.8.4",

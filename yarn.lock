@@ -6946,6 +6946,11 @@ no-case@^2.2.0:
   dependencies:
     lower-case "^1.1.1"
 
+node-bin-setup@^1.0.0:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/node-bin-setup/-/node-bin-setup-1.0.6.tgz#4b5c9bb937ece702d7069b36ca78af4684677528"
+  integrity sha512-uPIxXNis1CRbv1DwqAxkgBk5NFV3s7cMN/Gf556jSw6jBvV7ca4F9lRL/8cALcZecRibeqU+5dFYqFFmzv5a0Q==
+
 node-fetch@^1.0.1:
   version "1.7.3"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-1.7.3.tgz#980f6f72d85211a5347c6b2bc18c5b84c3eb47ef"
@@ -7036,6 +7041,13 @@ node-releases@^1.1.3, node-releases@^1.1.8:
   integrity sha512-oic3GT4OtbWWKfRolz5Syw0Xus0KRFxeorLNj0s93ofX6PWyuzKjsiGxsCtWktBwwmTF6DdRRf2KreGqeOk5KA==
   dependencies:
     semver "^5.3.0"
+
+node@^11.12.0:
+  version "11.12.0"
+  resolved "https://registry.yarnpkg.com/node/-/node-11.12.0.tgz#ecf81fc5c6f27fd597bd7ffbe1cf1f7c2fa3a990"
+  integrity sha512-um2HVV67QzgmYnfrT6XszwwUT7S/i5nzIls68jEYOfVFJye+0ta2leda2ZWYUHzAajbUYyMp312v+1yYh0Jixw==
+  dependencies:
+    node-bin-setup "^1.0.0"
 
 nopt@^4.0.1:
   version "4.0.1"
@@ -8557,6 +8569,14 @@ ra-data-json-server@^2.8.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/ra-data-json-server/-/ra-data-json-server-2.8.0.tgz#e39786b712cc26d450d8f29bd2af6106fc974e05"
   integrity sha512-1/YqYWPklfLvRgkI6c7a43N+vK2PyHbjGGDWiwlH6+BS1zE9VrOTAI4kH49l2U69vnASpSN0avHMrOfysgdZTw==
+  dependencies:
+    query-string "~5.1.1"
+    ra-core "^2.8.0"
+
+ra-data-simple-rest@^2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-2.8.0.tgz#6920df4290540baf8b91a4ce5d04180535a0c6eb"
+  integrity sha512-wuP6uKed3M2f8CGEeoGpXEeEPHrfx8r5MVzjs5FA2/UlF1uTN14fqZKa1HBzgYg7fzBuuozfNL34+Wd0HQoDHg==
   dependencies:
     query-string "~5.1.1"
     ra-core "^2.8.0"
